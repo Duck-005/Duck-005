@@ -11,7 +11,7 @@
                     "python" : "Suboptimally Transitional",
                     "C" : "ask my prof.",
                     "javascript" : "non-existent",
-                  ]
+                  ],
     "Interests" : [
                     "cryptography" : "hiding of data? oh i love it.",
                     "data science" : ["data analysis" : "getting interesting observations on otherwise obscure data"],
@@ -24,7 +24,7 @@
                                   "shinx" : "its shiny is gold..."
                                   "bidoof" : "everyone shall cower before the HM God"
                                 ]
-                  ]
+                  ],
     "long short-term plans" : [
                                  "desk-top UI development",
                                  "web-development",
