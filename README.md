@@ -36,11 +36,10 @@
 # My Github Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Duck-005&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duck-005&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
 </p>
 
 ---
 
-### here's some pokemon!
+### here's some pokemon!  
 
 ![image](https://github.com/Duck-005/Duck-005/assets/151392202/18e04fc4-8911-4bc5-beff-d289496a26e3)
