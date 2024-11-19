@@ -14,7 +14,7 @@
                   ],
     "Interests" : [
                     "cryptography" : "hiding of data? oh i love it.",
-                    "data science" : ["data analysis" : "getting interesting observations on otherwise obscure data"],
+                    "Network Security": "sniffing packets make me high"
                     "automation" : "use of interesting ideas to avoid doing manual stuff i.e. im lazy",
                     "books" : [
                                 "genre" : [ "fantasy", "historical fiction", "literary fiction"]
