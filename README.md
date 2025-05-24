@@ -16,20 +16,13 @@
                     "cryptography" : "hiding of data? oh i love it.",
                     "Network Security": "sniffing packets make me high"
                     "automation" : "use of interesting ideas to avoid doing manual stuff i.e. im lazy",
-                    "books" : [
-                                "genre" : [ "fantasy", "historical fiction", "literary fiction"]
-                              ],
                     "pokemon" : [
                                   "rayquaza" : "i mean come on",
                                   "shinx" : "its shiny is gold..."
                                   "bidoof" : "everyone shall cower before the HM God"
                                 ]
                   ],
-    "long short-term plans" : [
-                                 "desk-top UI development",
-                                 "web-development",
-                                 "microcontroller project"
-                              ]
+    "long short-term plans" : [ "desk-top UI development", "web-development", "microcontroller project" ]
   }
 ]
 ```
